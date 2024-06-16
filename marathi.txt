@@ -1,3 +1,29 @@
 _2406
 _    10
-avadate        आवडते        favourite
+avadate                आवडते            favourite
+_    16
+Ho	                                Yes
+Nahi/Nakko        	                No
+Kasa Aahes?	                        How are you?
+Mi thik ahe	                        I’m good
+Mitra	                                Friend
+Maaf Kara                        	Sorry
+Tai	                                Elder sister
+Aaji	                                Grandmother
+Kuthe                                	Where?
+Dada	                                Elder brother
+Basa	                                Sit down
+Thamba	                                Stop
+Kiti Vajle                        	What’s the time?
+Barobar	                                Exactly/Correct
+Jevan	                                Food
+Tu Ja	                                You go
+Kaka	                                Uncle
+Kaku	                                Aunty
+Nav	                                Name
+Barr Ahey                        	Looking good
+Susvagatam	                        Welcome
+Vadani Kawal Gheta                	Have a nice meal
+Mala samajate	                        I understand
+Mala samajata nahi                      I don’t understand
+Punha Sanga                             Please say that again
